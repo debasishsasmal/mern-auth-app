@@ -24,7 +24,7 @@ function Register() {
 
     try {
       // Backend ko request bhejo (Make sure URL is correct)
-      const response = await axios.post('http://localhost:3000/api/register', formData)
+      const response = await axios.post('https://mern-auth-app-gc3s.onrender.com/api/register', formData)
       
       // Agar success hua:
       setMessage('Success! User Registered. 🎉')

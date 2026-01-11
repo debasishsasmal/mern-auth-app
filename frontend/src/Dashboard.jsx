@@ -17,7 +17,7 @@ function Dashboard() {
         }
 
         // 3. If token exists, fetch data from Backend
-        axios.get('http://localhost:3000/api/dashboard', {
+        axios.get('https://mern-auth-app-gc3s.onrender.com/api/dashboard', {
             headers: {
                 'auth-token': token // Send token in header (Like we did in Thunder Client)
             }

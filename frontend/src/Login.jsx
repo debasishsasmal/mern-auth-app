@@ -20,7 +20,7 @@ function Login() {
     setMessage('Logging in... ⏳')
 
     try {
-      const response = await axios.post('http://localhost:3000/api/login', formData)
+      const response = await axios.post('https://mern-auth-app-gc3s.onrender.com/api/login', formData)
       
       setMessage('Login Successful! ✅')
       
