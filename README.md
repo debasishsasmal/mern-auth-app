@@ -4,7 +4,7 @@ A secure, full-stack **Authentication System** built with the **MERN Stack** (Mo
 
 🚀 **Live Demo:** [https://beautiful-peony-a1e6bb.netlify.app](https://beautiful-peony-a1e6bb.netlify.app/)
 
-![Project Screenshot](<img width="1265" height="881" alt="image" src="https://github.com/user-attachments/assets/fcf0190b-daa6-44df-bdbd-c485ff09aba8" />)
+<img width="1265" height="881" alt="image" src="https://github.com/user-attachments/assets/fcf0190b-daa6-44df-bdbd-c485ff09aba8" />
 
 ## ✨ Features
 
